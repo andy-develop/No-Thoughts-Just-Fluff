@@ -1,0 +1,31 @@
+current_arc: 1
+current_phase: Rising
+phase_start_chapter: 1
+phase_chapters_elapsed: 18
+recent_patterns:
+- chapter: 14
+  method: D1-D3
+  tension: 2
+- chapter: 15
+  method: D1-D3
+  tension: 2
+- chapter: 16
+  method: D1-D3
+  tension: 2
+- chapter: 17
+  method: D1-D3
+  tension: 5
+- chapter: 18
+  method: D1-D3
+  tension: 2
+recent_hooks:
+- chapter: 14
+  type: rest
+- chapter: 15
+  type: rest
+- chapter: 16
+  type: rest
+- chapter: 17
+  type: mystery
+- chapter: 18
+  type: rest
