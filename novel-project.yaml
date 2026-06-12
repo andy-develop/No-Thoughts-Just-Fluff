@@ -1,0 +1,28 @@
+meta:
+  title: No Thoughts, Just Fluff
+  author: Apex Shaw
+  genre: cozy fantasy comedy
+  target_words: 100000
+  current_words: 41042
+  current_chapter: 18
+  created_at: '2026-06-12'
+  language: english
+  input_language: any
+premise: A burned-out 25-year-old PR worker in Brooklyn transforms into a giant, eternally
+  relaxed capybara-like creature — and discovers that the best thing she can do for
+  herself is absolutely nothing.
+core_conflict: Chloe must choose between returning to human form (and the corporate
+  grind that destroyed her) or staying a capybara with her found family — but the
+  outside world keeps pulling her back.
+intended_ending: Chloe chooses to stay a capybara. She receives a high-paying corporate
+  offer that would transform her back, but looks at her found family, her debt-free
+  future from TikTok earnings, and the genuine peace she has found — and says (through
+  a contentent hum) that this is enough.
+style:
+  pov: third_person_limited
+  tense: present
+  tone: warm, humorous, Gen Z voice, cozy with sharp edges
+  avg_words_per_chapter: 2200
+  prose_style: accessible
+pov_priority:
+- chloe
