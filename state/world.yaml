@@ -1,0 +1,82 @@
+geography:
+  greenpoint_apt:
+    description: >
+      The 3-bedroom walkup apartment in Greenpoint, Brooklyn. Chloe, Maya, and Elif's home.
+      4th floor, no elevator. Tiny kitchen, living room with Chloe's nest of Muji beanbags.
+      This is the 'anti-hustle sanctuary'.
+    type: residence
+    location: Greenpoint, Brooklyn
+
+  prestige_pr:
+    description: >
+      Prestige & Partners PR firm in Midtown Manhattan. Open-plan office. Greg's domain.
+      Beige and soulless.
+    type: workplace
+    location: Midtown, Manhattan
+
+  bodega_corner:
+    description: >
+      The corner bodega 'Mohammed's' — open 24/7, Mohammed knows everyone.
+      Source of cheap produce for capybara Chloe.
+    type: commercial
+    location: Greenpoint, Brooklyn
+
+  prospect_park:
+    description: >
+      Prospect Park — where Chloe eventually gets outdoor time. Hidden grassy spot by the lake.
+    type: park
+    location: Brooklyn
+
+  rooftop:
+    description: >
+      The building's rooftop — late-night hangout spot, city lights, deep conversations.
+    type: social
+    location: Greenpoint, Brooklyn
+
+factions:
+  the_roommates:
+    members: [chloe, maya, elif]
+    description: "Chloe/Maya/Elif — chosen family."
+    standing: "anti-hustle resistance"
+
+  corporate_world:
+    members: [greg]
+    description: "Greg + Prestige & Partners — the grinding machine."
+    standing: "the establishment"
+
+power_system:
+  name: "Capybara Calm"
+  ranks:
+    - Dormant
+    - Awakening
+    - Full Floof
+    - Transcendent Relaxation
+  rules:
+    - description: "Chloe transforms to capybara when she achieves genuine peace; reverts to human when corporate anxiety resurfaces"
+      severity: hard
+    - description: "Chloe emits calming endorphins through her fur — anyone touching her feels immediate stress relief"
+      severity: hard
+    - description: "Chloe cannot speak in capybara form — only hums, squeaks, and contented sounds"
+      severity: hard
+    - description: "Chloe's capybara form is approximately 150 lbs and smells faintly of lavender and fresh hay"
+      severity: soft
+    - description: "The longer Chloe stays relaxed, the stronger her calming aura becomes"
+      severity: soft
+    - description: "If Chloe seriously attempts to re-enter corporate life, she will permanently revert to human form and lose all capybara abilities"
+      severity: hard
+
+items:
+  chloe_phone:
+    description: "Chloe's phone — now useless with hooves/paws"
+    type: mundane
+    owner: chloe
+
+  tiktok_account:
+    description: "The secret TikTok account @capysnack — Elif runs it"
+    type: mundane
+    owner: elif
+
+  muji_beanbags:
+    description: "The pile of Muji beanbags that serves as Chloe's nest"
+    type: mundane
+    owner: shared
