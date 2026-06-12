@@ -1,0 +1,36 @@
+emotional_debts:
+  - id: E001
+    creditor: chloe
+    debtor: greg
+    amount: "Two years of stolen overtime, gaslighting, and missed holidays"
+    status: outstanding
+    planted_chapter: 1
+    payback_condition: "Greg must genuinely understand what he took from her"
+    notes: "Corporate abuse debt — satisfaction payoff when Greg gets his comeuppance"
+
+  - id: E002
+    creditor: maya
+    debtor: maya_herself
+    amount: "Years of suppressed vulnerability and refusing help"
+    status: outstanding
+    planted_chapter: 2
+    payback_condition: "Maya asks for help without being cornered into it"
+    notes: "Internal emotional debt — self-kindness arc"
+
+  - id: E003
+    creditor: elif
+    debtor: chloe
+    amount: "Is the TikTok account helping Chloe or using her?"
+    status: outstanding
+    planted_chapter: 5
+    payback_condition: "Elif must choose between follower growth and Chloe's consent/privacy"
+    notes: "Exploitation tension — must resolve before final act"
+
+  - id: E004
+    creditor: chloe
+    debtor: chloe_herself
+    amount: "Believing her worth comes from productivity"
+    status: outstanding
+    planted_chapter: 1
+    payback_condition: "Chloe chooses rest without guilt"
+    notes: "Core self-worth arc — must resolve in final chapter"
