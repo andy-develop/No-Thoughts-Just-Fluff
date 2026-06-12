@@ -1,0 +1,30 @@
+rules:
+  - id: R001
+    description: "Chloe transforms between human and capybara based on her mental state — peace = capybara, anxiety/corporate ambition = human"
+    severity: hard
+    category: power
+
+  - id: R002
+    description: "Chloe cannot speak in capybara form, only make animal sounds"
+    severity: hard
+    category: power
+
+  - id: R003
+    description: "Chloe emits a calming aura in capybara form that reduces stress in nearby humans"
+    severity: hard
+    category: power
+
+  - id: R004
+    description: "The apartment is rent-controlled — losing it would be catastrophic for all three roommates"
+    severity: hard
+    category: social
+
+  - id: R005
+    description: "No pets allowed per the lease — this is a constant threat to Chloe"
+    severity: soft
+    category: social
+
+  - id: R006
+    description: "TikTok/BookTok culture is real and powerful — virality can change lives overnight"
+    severity: soft
+    category: social
