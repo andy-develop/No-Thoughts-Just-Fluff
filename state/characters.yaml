@@ -1,0 +1,221 @@
+characters:
+  chloe:
+    name: Chloe
+    age: 25
+    role: protagonist
+    status: transformed
+    location: "Greenpoint apartment, Brooklyn"
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      Former PR junior exec. Before transformation: burned-out, anxiety-ridden,
+      surviving on iced coffee and panic, drowning in student debt ($102K).
+      After transformation: a 150-pound, fur-covered, herb-scented, eternally
+      relaxed capybara-hamster hybrid magical creature. Can't speak — only hums
+      'mmm' contentedly. Emits calming endorphins that affect anyone who touches
+      her fur. Loses human form permanently when anxious/aspiring; maintains
+      capybara form when content/idle.
+    key_traits:
+      - "People-pleaser buried under sarcasm"
+      - "Deeply loyal once trust is earned"
+      - "Terrified of stillness"
+      - "Secretly creative"
+    belief_system:
+      core_belief: "Rest is not failure"
+      deepest_fear: "Becoming invisible — nobody notices I exist"
+      deepest_desire: "To be truly seen and accepted as I am"
+      moral_line: "Never abandon someone who showed me kindness"
+      self_deception: "I need the hustle to prove my worth"
+    voice_fingerprint:
+      vocab_level: normal
+      sentence_length: mixed
+      signature_phrases:
+        - "Like, literally"
+        - "I can't even"
+        - "Okay but"
+      topics_gravitate:
+        - work complaints
+        - apartment drama
+      topics_avoid:
+        - real feelings
+        - family
+      speech_quirk: "Trail off mid-sentence when overwhelmed"
+
+  maya:
+    name: Maya
+    age: 27
+    role: supporting
+    status: alive
+    location: "Greenpoint apartment, Brooklyn"
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      Queer freelance illustrator. Sharp-tongued, fiercely protective, chronically
+      anxious. First to discover Chloe's transformation. Finds Chloe's fur
+      therapeutically grounding for her anxiety.
+    key_traits:
+      - "Fiercely protective"
+      - "Sarcastic deflector"
+      - "Secret softie"
+      - "Insomniac workaholic"
+    belief_system:
+      core_belief: "If I don't control everything, it all falls apart"
+      deepest_fear: "Being truly known and rejected"
+      deepest_desire: "To create art that matters"
+      moral_line: "Never abandon your chosen family"
+      self_deception: "I don't need help, I need more coffee"
+    voice_fingerprint:
+      vocab_level: normal
+      sentence_length: short
+      signature_phrases:
+        - "Absolutely not"
+        - "Babe NO"
+        - "I'm going to need you to"
+      topics_gravitate:
+        - art critique
+        - roommate drama
+        - social justice
+      topics_avoid:
+        - her own vulnerability
+      speech_quirk: "Sarcastic deflection before sincerity"
+    supporting_role:
+      primary_function: emotion_regulator
+      secondary_function: mirror_contrast
+      signature_tag: "Sharp black bob + chronic resting murder face"
+      extreme_trait: "Protective rage on behalf of others"
+      independent_goal: "Get her art featured in a real gallery show"
+      self_interest: "Creative validation and financial stability"
+      solo_activity: "2am illustration sessions with lo-fi beats"
+
+  elif:
+    name: Elif
+    age: 24
+    role: supporting
+    status: alive
+    location: "Greenpoint apartment, Brooklyn"
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      Turkish-American astrology/eco influencer. Trendy, optimistic, chaotic good.
+      Uses tarot for everything. Runs Chloe's secret TikTok account. Action-oriented.
+    key_traits:
+      - "Chaotic optimist"
+      - "Social media native"
+      - "Genuinely caring under the fluff"
+      - "Terrible at boundaries"
+    belief_system:
+      core_belief: "The universe has a plan if you listen"
+      deepest_fear: "Being ordinary and forgettable"
+      deepest_desire: "To matter — to leave a mark"
+      moral_line: "Never exploit someone's pain for clout"
+      self_deception: "Spiritual bypassing counts as healing"
+    voice_fingerprint:
+      vocab_level: simple with astrology jargon
+      sentence_length: long rambling
+      signature_phrases:
+        - "The stars said"
+        - "It's giving"
+        - "Babe that's so Mercury retrograde"
+        - "Vibe check"
+      topics_gravitate:
+        - astrology
+        - sustainability
+        - TikTok trends
+      topics_avoid:
+        - real emotional depth
+      speech_quirk: "Everything is a cosmic sign"
+    supporting_role:
+      primary_function: plot_driver
+      secondary_function: world_window
+      signature_tag: "Always has crystals falling out of her bag"
+      extreme_trait: "Cosmic rationalization for everything"
+      independent_goal: "Grow her influencer platform to 500K followers"
+      self_interest: "Authenticity + audience growth"
+      solo_activity: "Filming content, reading birth charts for strangers"
+
+  greg:
+    name: Greg
+    age: 45
+    role: supporting
+    status: alive
+    location: "Prestige & Partners PR firm, Manhattan"
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      Chloe's former boss at the PR firm. Everything wrong with corporate culture.
+      Uses 'we're a family here' unironically. Mid-level narcissist.
+    key_traits:
+      - "Corporate sociopath"
+      - "Smarmy charm"
+      - "Deeply insecure"
+    belief_system:
+      core_belief: "Other people exist to serve the company"
+      deepest_fear: "Being irrelevant"
+      deepest_desire: "Unquestioned authority"
+      moral_line: null
+      self_deception: null
+    voice_fingerprint: null
+    supporting_role:
+      primary_function: mirror_contrast
+      secondary_function: null
+      signature_tag: "Blindingly white smile + dead eyes"
+      extreme_trait: "Aggressive corporate positivity"
+      independent_goal: "Make VP before 50"
+      self_interest: null
+      solo_activity: null
+
+  mrs_hendricks:
+    name: Mrs. Hendricks
+    age: "60s"
+    role: supporting
+    status: alive
+    location: null
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      The apartment's landlady. Brusque, suspicious, but ultimately lonely.
+    key_traits:
+      - "Sharp-eyed"
+      - "Rules-obsessed"
+      - "Secretly soft"
+    belief_system: null
+    voice_fingerprint: null
+    supporting_role:
+      primary_function: world_window
+      secondary_function: null
+      signature_tag: "Feather duster in hand at all times"
+      extreme_trait: "Suspicion of anyone under 40"
+      independent_goal: null
+      self_interest: null
+      solo_activity: null
+
+  dave:
+    name: Dave
+    age: "30s"
+    role: supporting
+    status: alive
+    location: null
+    first_appeared: 0
+    last_appeared: 0
+    total_appearances: 0
+    description: >
+      The building's super/handyman. Chill stoner energy.
+    key_traits:
+      - "Unflappable"
+      - "Helpful"
+      - "Zero judgment"
+    belief_system: null
+    voice_fingerprint: null
+    supporting_role:
+      primary_function: emotion_regulator
+      secondary_function: null
+      signature_tag: "Always eating something"
+      extreme_trait: "Absolutely nothing fazes him"
+      independent_goal: null
+      self_interest: null
+      solo_activity: null
