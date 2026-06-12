@@ -1,0 +1,136 @@
+threads:
+  T001:
+    title: "Why did Chloe transform?"
+    description: >
+      The mystery of the transformation itself. Was it magic? A cosmic joke?
+      Burnout made physical? Planted when it happens Ch1.
+    category: mystery
+    importance: major
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 25
+    related_characters: [chloe]
+    related_threads: [T007, T010]
+
+  T002:
+    title: "Chloe's student debt"
+    description: >
+      $102K in student loans. The TikTok account inadvertently starts paying it off.
+      Major source of tension: can she go back to being human and keep the money?
+    category: power
+    importance: major
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 45
+    related_characters: [chloe, elif]
+    related_threads: [T006, T007]
+
+  T003:
+    title: "Greg's suspicion"
+    description: >
+      Greg doesn't believe Chloe is sick. He suspects she's faking to escape a big project.
+      Will investigate.
+    category: conspiracy
+    importance: major
+    urgency: high
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 30
+    related_characters: [greg, chloe]
+    related_threads: [T001]
+
+  T004:
+    title: "Mrs. Hendricks' inspection"
+    description: >
+      The lease says no pets. Landlady inspections are a ticking clock.
+    category: social
+    importance: minor
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 20
+    related_characters: [chloe, maya, elif]
+    related_threads: [T008]
+
+  T005:
+    title: "Maya's gallery dream"
+    description: >
+      Maya's art career is stuck. Chloe's calming presence helps Maya create her best work,
+      but will Maya credit the source?
+    category: relationship
+    importance: minor
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 40
+    related_characters: [maya, chloe]
+    related_threads: [T002]
+
+  T006:
+    title: "Elif's follower milestone"
+    description: >
+      Elif is approaching 500K on TikTok thanks to the capybara content. But is she exploiting Chloe?
+    category: relationship
+    importance: minor
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 35
+    related_characters: [elif, chloe]
+    related_threads: [T002, E003]
+
+  T007:
+    title: "The choice"
+    description: >
+      Chloe realizes she can become human again if she chooses to re-enter the corporate mindset.
+      The final dilemma: return to humanity and the grind, or stay a capybara with her found family?
+    category: power
+    importance: major
+    urgency: low
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 50
+    related_characters: [chloe]
+    related_threads: [T001, T002]
+
+  T008:
+    title: "Dave knows"
+    description: >
+      The super has definitely seen a giant rodent in apartment 4B. Why hasn't he said anything?
+    category: mystery
+    importance: minor
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 15
+    related_characters: [dave]
+    related_threads: [T004]
+
+  T009:
+    title: "Chloe's parents"
+    description: >
+      They've been calling. Chloe's been dodging. Eventually they'll want to visit.
+    category: relationship
+    importance: minor
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 42
+    related_characters: [chloe]
+    related_threads: [T007]
+
+  T010:
+    title: "The lavender smell"
+    description: >
+      Chloe's capybara form always smells like lavender. Where does it come from?
+      (Hint: her grandmother's garden)
+    category: backstory
+    importance: easter_egg
+    urgency: normal
+    status: unresolved
+    planted_chapter: 0
+    expected_resolve_by: 50
+    related_characters: [chloe]
+    related_threads: [T001]
