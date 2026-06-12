@@ -1,0 +1,73 @@
+mode: auto
+target_words: 100000
+target_chapters: null
+avg_words_per_chapter: 2500
+consistency:
+  light_check_interval: 3
+  deep_audit_interval: 10
+  auto_fix: true
+  max_auto_fix_attempts: 2
+  halt_on_unfixable: false
+selection:
+  scoring_mode: 7dim
+  weights:
+    rhythm_fit: 0.25
+    drive_intensity: 0.2
+    thread_advancement: 0.15
+    emotional_utilization: 0.15
+    consistency_score: 0.1
+    novelty: 0.1
+    hook_strength: 0.05
+  veto:
+    hard_rule_conflict: true
+    repeat_pattern_limit: 3
+    no_emotion_at_climax: true
+  merge_threshold: 0.5
+  min_score: 2.5
+rhythm:
+  arc_phases:
+    Rising:
+      min: 3
+      max: 8
+      ideal: 5
+    Escalation:
+      min: 5
+      max: 15
+      ideal: 10
+    False_Climax:
+      min: 1
+      max: 3
+      ideal: 2
+    Second_Rise:
+      min: 3
+      max: 10
+      ideal: 6
+    True_Climax:
+      min: 2
+      max: 5
+      ideal: 3
+    Falling:
+      min: 2
+      max: 5
+      ideal: 3
+  max_consecutive_high_tension: 2
+  max_consecutive_low_tension: 3
+  stale_thread_threshold: 15
+  absent_char_threshold: 20
+endgame:
+  begin_at_percent: 80
+  block_new_major_threads: 95
+  concept_echo: true
+  unresolved_thread_warn: 5
+output:
+  chapter_summary: true
+  show_score_details: true
+  show_consistency_report: true
+  milestone_interval: 10
+sprint:
+  enabled: false
+  mode: organic
+  consistency_interval: 5
+  force_sync_interval: 5
+  skip_rhythm: true
+  skip_score: true
